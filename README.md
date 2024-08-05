@@ -27,7 +27,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-Rashi0903/NewsSuction.git
+git clone https://github.com/Rashi0903/NewsSuction.git
 Navigate to the project directory:
 bash
 Copy code
