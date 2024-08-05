@@ -23,23 +23,20 @@ Sage: #adc178
 Brown: #a98467
 Dark Brown: #6c584c
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Rashi0903/NewsSuction.git
-Navigate to the project directory:
-bash
-Copy code
-cd NewsSuction
-Open index.html in your preferred web browser.
+
+Open home.html in your preferred web browser.
+
 Usage
 Explore the various sections of the website:
 
 Home: Introduction and overview of NewSuction.
+
 Latest News: A summary of the most recent news articles.
+
 Newspapers: Links to renowned newspapers.
+
 About Us: Information about the project's aims and goals.
+
 Contact Us: Contact information and social media links.
 
 
